@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for orders table'
+define service ZKSN_SD_ORDERS {
+  expose ZKSN_DDL_CVIEW_ORDERS;
+}
